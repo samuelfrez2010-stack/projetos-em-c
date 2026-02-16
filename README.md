@@ -6,7 +6,7 @@ Repositório criado para organizar meus estudos de lógica de programação e fu
 Este repositório faz parte da minha preparação acadêmica na área de tecnologia.
 
 ## Projetos no Repositório
-* **[01-calculadora-imc](./01-calculadora-imc/):**
+* **[01-calculadora-imc](./01-calculadora-imc/)**
 
 ## Ferramentas Utilizadas
 * Linguagem C
